@@ -11,6 +11,7 @@
 		EF375AC1277A5E810007087A /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF375AC0277A5E810007087A /* ContentView.swift */; };
 		EF375AC3277A5E820007087A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF375AC2277A5E820007087A /* Assets.xcassets */; };
 		EF375AC6277A5E820007087A /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EF375AC5277A5E820007087A /* Preview Assets.xcassets */; };
+		EF3F50C7277B29A300F08AB9 /* ModalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF3F50C6277B29A300F08AB9 /* ModalView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		EF375AC2277A5E820007087A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		EF375AC5277A5E820007087A /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EF375AC7277A5E820007087A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		EF3F50C6277B29A300F08AB9 /* ModalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ModalView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				EF375ABE277A5E810007087A /* GitHubDemoApp.swift */,
 				EF375AC0277A5E810007087A /* ContentView.swift */,
+				EF3F50C6277B29A300F08AB9 /* ModalView.swift */,
 				EF375AC2277A5E820007087A /* Assets.xcassets */,
 				EF375AC7277A5E820007087A /* Info.plist */,
 				EF375AC4277A5E820007087A /* Preview Content */,
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				EF3F50C7277B29A300F08AB9 /* ModalView.swift in Sources */,
 				EF375AC1277A5E810007087A /* ContentView.swift in Sources */,
 				EF375ABF277A5E810007087A /* GitHubDemoApp.swift in Sources */,
 			);
